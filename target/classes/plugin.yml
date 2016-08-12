@@ -1,0 +1,8 @@
+name: WorldExplorerFactions
+version: 0.5
+author: Gephery
+main: com.gmail.gephery.factions.WorldExplorerFactions
+commands:
+  wef:
+    description: Full suite of WE facitons commands.
+    usage: /wef <leave:list:stats:join:create:invite:addatt:disband:claim:map:unclaim:appoint>
